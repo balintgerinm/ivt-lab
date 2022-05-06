@@ -1,0 +1,13 @@
+public boolean fireTorpedo(FiringMode firingMode)
+
+TESTS
+
+#1 Single fail by empty
+
+#2 All fail by empty primary
+
+#3 All fail by empty secondary
+
+#4
+
+#5
